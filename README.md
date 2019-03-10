@@ -1,5 +1,5 @@
 ## devBook
-Created with: HTML, CSS, Vuetify, Vue.js and Firebase.
+Created with: HTML, CSS, Javascript, Vue.js, Vuetify and Firebase.
 
 # Capabilities:
 Anonymous users can look at profiles of registered users and read comments on their wall.
